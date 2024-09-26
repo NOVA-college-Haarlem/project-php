@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+
+#nav-bar{
+  width: 100%;
+  height: 200px;
+  box-shadow: grey 0px 2px 2px 0px;
+}
+
+h1{
+  color: yellow;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: black 3px 2px 2px;
+  text-align: center;
+}
